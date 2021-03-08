@@ -1,7 +1,7 @@
 # Virtual Ring Try-On
 
 An application of AR technology in trying clothes and jewellery in Vietnam.
-This project used Mediapipe v0.6.9 in hand recognition and Unity's AR Foundation with Google ARCore Extension in model rendering.
+This project uses Mediapipe v0.6.9 in hand recognition and Unity's AR Foundation with Google ARCore Extension in model rendering.
 
 ## Getting Started
 
